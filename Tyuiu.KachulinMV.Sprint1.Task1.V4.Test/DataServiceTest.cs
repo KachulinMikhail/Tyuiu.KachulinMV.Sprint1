@@ -15,6 +15,9 @@ namespace Tyuiu.KachulinMV.Sprint1.Task1.V4.Test
             double wait = (2 + 3) / 2 * 3;
             double res = ds.Calculate(x, y);
             Assert.AreEqual(res, 7.5);
+
+         
         }
     }
 }
+
