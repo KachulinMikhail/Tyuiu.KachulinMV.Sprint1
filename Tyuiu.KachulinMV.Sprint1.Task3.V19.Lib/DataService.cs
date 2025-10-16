@@ -10,6 +10,6 @@ namespace Tyuiu.KachulinMV.Sprint1.Task2.V19.Lib
             return Math.Abs(x2 - x1) == Math.Abs(y2 - y1);
         }
 
-        
+
     }
 }

@@ -33,7 +33,7 @@ namespace Tyuiu.KachulinMV.Sprint1.Task2.V19
 
             Console.WriteLine("Введите значение Y2: ");
             y2 = Convert.ToInt32(Console.ReadLine());
- 
+
 
             Console.WriteLine("**********************************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                                                 *");
@@ -47,14 +47,6 @@ namespace Tyuiu.KachulinMV.Sprint1.Task2.V19
         }
     }
 }
-
-
-
-
-
-
-
-
 
 
 
