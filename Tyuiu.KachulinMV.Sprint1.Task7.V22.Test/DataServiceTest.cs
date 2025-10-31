@@ -1,5 +1,4 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-
+﻿
 namespace Tyuiu.KachulinMV.Sprint1.Task6.V22.Test
 {
     [TestClass]
